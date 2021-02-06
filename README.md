@@ -5,4 +5,4 @@
 <h3> How it work?!<h3>
   <h3>Copy the main folder of the program wherever you want. Then copy the desired photos taken with Sasung Gear 360 to the cover that contains the "Starter.exe" file. Click to open "starter.exe" file and type "Convert *.JPG" command to convert all the photos in the folder. If you want to convert only one photo, enter the command "Convert "name".JPG". When done, the converted photos will be saved in the "Gear360-OK-Created" folder.</h3>
 
-<h1>You need to install Hugin for use this program! <a href="http://hugin.sourceforge.net">Download from Sourceforge</a></h1>
+<h1>You need to install Hugin in the default path for use this program! <a href="http://hugin.sourceforge.net">Download from Sourceforge</a></h1>
