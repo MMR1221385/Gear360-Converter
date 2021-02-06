@@ -1,5 +1,5 @@
 <h1> Gear360-Converter - By MMR</h1>
-<h2>MohammadMahdiRezaei - English Part</h2>
+<h2>MohammadMahdiRezaei</h2>
 <h2>Hi. This program is for converting photos that Samsung 360-degree camera into a standard panorama for Windows and its applications. The output of Samsung Gear camera photos is such that only its own apps available for PC and Android show it correctly (as far as I know!) And the main problem is that the app is on A certain number of mobile smartphones are supported and the worse problem is that 60% of them are not installed on PCs and give errors. I searched the internet for about three hours and tried every way I could find it (it was even close to the Windows registry crashing!) But to no avail! I wanted to use the photos taken by this camera to make it virtually, but it could not be output with the camera itself! So I started working and made a plan myself </h2>
 
 <h3> How it work?!<h3>
